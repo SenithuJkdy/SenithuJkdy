@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="100%" src="https://pin.it/4jNC12eiK">
+<img align="right" alt="Coding" width="100%" src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif">
 
 
 # 💻 Tech Stack:

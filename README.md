@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senithujkdy)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/f6kLTghokR7zYkz49">
+<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">

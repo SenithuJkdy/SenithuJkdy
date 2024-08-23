@@ -10,7 +10,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SenithuJkdy&theme=default&hide_border=false)<br/>
 [![Senithu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=SenithuJkdy&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/SenithuJkdy)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SenithuJkdy&langs_count=8&theme=default&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SenithuJkdy&theme=default&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenithuJkdy&layout=compact)
 ---
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SenithuJkdy&langs_count=8&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 

@@ -82,7 +82,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithujkdy&hide_border=true&layout=compact&hide='Rich Text Format'" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithujkdy&hide_border=true&layout=compact&hide=rich%20text%20formatting" align="center" /></div>  
 
 <br/>  
 

@@ -1,7 +1,11 @@
 <div align="center">
-<img src="https://media3.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=6c09b952w6lq20q3ahbhd0odidk0dz6r4hcfmwizzyndusi1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="center" height="200" width="400" />
+<img src="https://media3.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=6c09b952w6lq20q3ahbhd0odidk0dz6r4hcfmwizzyndusi1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="center" height="300" width="500" />
 </div>  
-  
+<br/>
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g1MGV5YWl6OWhjcjYycWp4YTQ1aXY0NXRicmJrdTU4cmR4MXQ3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOxSXI5D2cvc6kYSvw/giphy.gif" align="center" height="300" width="500" />
+</div>  
+
 
 ### <div align="center">I'm Senithu, a full-stack software developer 👨‍💻 with 2 years experience</div>  
   

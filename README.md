@@ -71,16 +71,11 @@
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithujkdy&hide_border=true&layout=compact&hide=rich%20text%20format" 
-        width="500" 
-/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithujkdy&hide_border=true&layout=compact&hide=rich%20text%20format" />
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=senithujkdy&show_icons=true&count_private=true&hide_border=true" 
-        width="500" 
-        height="300"
-/>
+        src="https://github-readme-stats.vercel.app/api?username=senithujkdy&show_icons=true&count_private=true&hide_border=true" />
     </td>
   </tr>
 </table>

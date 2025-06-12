@@ -67,16 +67,9 @@
 
 
 ## 👨‍💻 Github Stats 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=senithujkdy&show_icons=true&count_private=true&hide_border=true" 
-             style="height: 200px;" align="center" />
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithujkdy&hide_border=true&layout=compact&hide=rich%20text%20format" 
-             style="height: 200px;" align="center" />
-    </div>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senithujkdy&show_icons=true&locale=en" alt="senithujkdy" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithujkdy&hide_border=true&layout=compact&hide=rich%20text%20format" alt="senithujkdy" /></p>
 
 
 

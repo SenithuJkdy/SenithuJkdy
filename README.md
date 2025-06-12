@@ -71,7 +71,9 @@
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithujkdy&hide_border=true&layout=compact&hide=rich%20text%20format" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithujkdy&hide_border=true&layout=compact&hide=rich%20text%20format" 
+        height="200"
+/>
     </td>
     <td>
       <img 

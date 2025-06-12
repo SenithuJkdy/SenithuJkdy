@@ -66,17 +66,17 @@
 
 
 
-## 👨‍💻 Github Stats 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=senithujkdy&show_icons=true&count_private=true&hide_border=true" 
-            />
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithujkdy&hide_border=true&layout=compact&hide=rich%20text%20format" 
-             />
-    </div>
-</div>
+## 👨‍💻 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=senithujkdy&show_icons=true&count_private=true&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senithujkdy&hide_border=true&layout=compact&hide=rich%20text%20format" />
+    </td>
+  </tr>
+</table>
 
 
 
